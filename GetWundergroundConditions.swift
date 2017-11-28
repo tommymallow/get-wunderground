@@ -2,7 +2,7 @@
 //  GetWundergroundConditions.swift
 //  CompassionAppServices
 //
-//  Created by Eric Rowe (GMC-GSS-IT-CONTRACTOR) on 12/12/16.
+//  Created by Thomas Mallow (GMC-GSS-IT-CONTRACTOR) on 07/12/17.
 //  Copyright © 2016 Compassion International. All rights reserved.
 //
 
